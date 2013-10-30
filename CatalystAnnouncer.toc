@@ -1,0 +1,5 @@
+## Interface: 50400
+## Title: Xaril's Catalyst Announcer
+## Notes: Yells each time you are subject to one of Xaril's Catalyst.
+
+CatalystAnnouncer.lua
