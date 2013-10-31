@@ -32,7 +32,7 @@ local function check_mob(unit)
 	if not GUID then
 		return false
 	else
-		return (GUID:sub(-13, -9) == "115f5")
+		return (GUID:sub(-13, -9) == "115F5")
 	end
 end
 
